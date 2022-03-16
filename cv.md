@@ -2,7 +2,7 @@
 
 
 ### Contact information:
-* **Phone:** +380686806909</br>
+* **Phone:** +380686806909
 * **E-mail:** oleksandr-m-rss@gmail.com
 
 ---
@@ -24,7 +24,7 @@ Highly skilled telecommunication engineer with over 18 years’ experience. Thor
 * Schedule maintenance and service for equipment and systems.
 * Reduce incidence of breakdowns by designing and implementing improved maintenance and service routine.
 * Train new team members.
-</br></br>
+
 ### Telecommunication Engineer
 ### Tele2
 #### April 2005 – October 2012
@@ -39,7 +39,7 @@ Highly skilled telecommunication engineer with over 18 years’ experience. Thor
 * Sourced, purchased, and installed new equipment and components.
 * Maintained optimal function via planned upgrades and regular service.
 * Upgraded company productivity by integrating existing telecommunications to function on a unified platform.
-</br></br>
+
 ### Assistant Telecommunication Engineer
 ### Tele2
 #### June 2003 – April 2005
